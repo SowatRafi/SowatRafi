@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Web Development & AI.
 - 💞️ I’m looking to collaborate on a interesting project.
-- 📫 How to reach me? (sowat.hossain.rafi@g.bracu.ac.bd)
+- 📫 How to reach me? (sowad.rafi@icloud.com)
 
 <!---
 SowatRafi/SowatRafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
