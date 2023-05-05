@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SowatRafi
-- 👀 I’m interested in `Mobile App Development`, `AI`, `ML`, `Deep Learning`, `Data Science`
-- 🌱 I’m currently learning `Flutter`.
+- 👀 I’m interested in `iOS Development`, `AI`, `Cyber Security`
+- 🌱 I’m currently learning `iOS Development`.
 - 💞️ I’m looking to collaborate on a interesting project.
 - 📫 How to reach me? (sowad.rafi@icloud.com)
 
