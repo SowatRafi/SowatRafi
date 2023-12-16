@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SowatRafi
-- 👀 I’m interested in `iOS Development`, `AI`, `Cyber Security`
+- 👀 I’m interested in `iOS Development`, `Artificial Intelligence`, `Cyber Security`
 - 🌱 I’m currently learning `iOS development`.
-- 💞️ I’m looking to collaborate on an interesting project.
+- 💞️ I’m currently pursuing my Masters at La Trobe University.
 - 📫 How to reach me? (sowad.rafi@icloud.com)
 
 <!---
