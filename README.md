@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SowatRafi
 - 👀 I’m interested in `Artificial Intelligence`, `Cyber Security`
-- 🌱 I’m currently learning `iOS development`.
+- 🌱 I’m currently learning `AI Engineering`.
 - 💞️ I’m currently pursuing my internship as an AI Engineer at Unwind AI and Data Pty Ltd.
 - 📫 How to reach me? (sowad.rafi@icloud.com)
 
